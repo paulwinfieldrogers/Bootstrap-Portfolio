@@ -1,0 +1,53 @@
+.container {
+    size: 960px;
+    margin-bottom: 5;
+}
+
+#name {
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 75;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+    float:left;
+    clear: right;
+   padding-top: 10px;
+    width: 20%;
+    height: 50px;
+    font-weight: bold;
+    margin-top: 5;
+    position: relative
+
+}
+    
+body {
+    background-image: url("../images/houndstooth-pattern.png");
+}
+
+.card-header {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    background-color: white;
+    color: #4aaaa5;
+    font-size: 75;
+    margin-top: -5;
+}
+   
+.card-img-top {
+    height: 200px;
+    width: 250px;
+    float: left;
+    margin: 0 .75em .5em 0;
+}
+
+.card-body { 
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+  
+  .card-text{
+    word-wrap: break-word;
+  }
+
+  .nav-link {
+      font: #4aaaa5;
+  }
